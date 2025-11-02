@@ -30,7 +30,7 @@ This project analyzes ~4,000 Netflix titles to uncover what drives successful co
 ---
 
 ## 📂 Project Files  
-```
+
 
 Netflix-Content-Acquisition-EDA/
 ├── Scrapping_the_netflix_data.ipynb
@@ -42,7 +42,7 @@ Netflix-Content-Acquisition-EDA/
 ├── Documentation of netflix content acquisition project.docx
 └── README.md
 
-```
+
 
 ---
 
@@ -126,4 +126,3 @@ If you like this project, please ⭐ the repository and connect with me on Linke
 
 ---
 
-Just say the word!
