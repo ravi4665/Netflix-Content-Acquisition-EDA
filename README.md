@@ -104,9 +104,9 @@ ROI Optimization | Remove low-performing titles & focus on proven content cluste
 ## 👥 Contributors  
 - **Ravindra Nadh**
 - **Chandu Nayak**
-- **Anil Katravath**
+- 
 
-**Special Thanks:** *Tasleema Noor (Mentor) – Innomatics Research Labs*
+**Special Thanks:** * Nagaraj (Trainer) , Tasleema Noor (Mentor) – Innomatics Research Labs*
 
 ---
 
